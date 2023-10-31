@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/node": "^20.4.9"
+  },
+  "name": "piaic-assignment",
+  "version": "1.0.0",
+  "main": "assignment10.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
